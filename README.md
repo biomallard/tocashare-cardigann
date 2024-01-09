@@ -55,7 +55,7 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
    
    [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
 
-2. **Crie um diretório de definições customizadas do Prowlarr"
+2. **Crie um diretório de definições customizadas do Prowlarr**
 
    Crie um diretório `Custom` dentro da pasta de `Definitions` do diretório de configurações do Prowlarr. No Windows, este novo diretório ficará localizado em:
 
