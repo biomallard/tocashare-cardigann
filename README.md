@@ -15,9 +15,9 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
    
    [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
 
-4. **Mova o arquivo para o diretório de indexadores do Jackett**
+4. **Mova o arquivo para o diretório de definições do Jackett**
 
-   Mova o arquivo `tocashare-api.yml` para o diretório de `indexers` do Jackett. No Windows, este diretório está localizado em:
+   Mova o arquivo `tocashare-api.yml` para o diretório de `Definitions` do Jackett. No Windows, este diretório está localizado em:
 
    ```
    C:\ProgramData\Jackett\Definitions
