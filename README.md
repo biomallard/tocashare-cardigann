@@ -20,7 +20,7 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
    Mova o arquivo `tocashare-api.yml` para o diretório de `indexers` do Jackett. No Windows, este diretório está localizado em:
 
    ```
-   C:\ProgramData\Jackett\Indexers
+   C:\ProgramData\Jackett\Definitions
    ```
    
    Consulte o log do Jackett para obter a localização específica para seu sistema operacional.
