@@ -11,7 +11,7 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
 
 1. **Baixe o arquivo de configuração**
 
-   Primeiramente, baixe o arquivo de configuração `tosashare-api.yml` no seguinte link:
+   Primeiramente, baixe o arquivo de configuração `tocashare-api.yml` no seguinte link:
    
    [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
 
@@ -51,7 +51,7 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
 
 1. **Baixe o arquivo de configuração**
 
-   Primeiramente, baixe o arquivo de configuração `tosashare-api.yml`no seguinte link:
+   Primeiramente, baixe o arquivo de configuração `tocashare-api.yml`no seguinte link:
    
    [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
 
