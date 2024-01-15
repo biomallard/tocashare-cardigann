@@ -1,6 +1,6 @@
 # Toca Share Cardigann
 
-Este README irá guiá-lo pelo processo de adição do Toca Share como um tracker customizado na sua instalação do Jackett/Prowlarr, usando o arquivo de configuração [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
+Este README irá guiá-lo pelo processo de adição do Toca Share como um tracker customizado na sua instalação do Jackett/Prowlarr, usando o arquivo de configuração [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yml)
 
 # Pré-requisitos
 
@@ -13,7 +13,7 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
 
    Primeiramente, baixe o arquivo de configuração `tocashare-api.yml` no seguinte link:
    
-   [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
+   [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yml)
 
 4. **Mova o arquivo para o diretório de definições do Jackett**
 
@@ -53,7 +53,7 @@ Este README irá guiá-lo pelo processo de adição do Toca Share como um tracke
 
    Primeiramente, baixe o arquivo de configuração `tocashare-api.yml`no seguinte link:
    
-   [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yaml)
+   [tocashare-api.yml](https://github.com/soganakamaro/tocashare-cardigann/blob/main/tocashare-api.yml)
 
 2. **Crie um diretório de definições customizadas do Prowlarr**
 
